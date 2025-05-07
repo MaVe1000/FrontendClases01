@@ -1,0 +1,32 @@
+body{
+    background-color: #471ae9;
+    font-family: Arial, sans-serif;
+    color: azure;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    border: solid 5px #6a12bd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 60px;
+}
+h1{
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-style: italic;
+}  
+h3{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+h3:hover{
+    color: #ffcc00;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: all 0.4s ease-in-out;
+}
+ 
